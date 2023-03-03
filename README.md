@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-### :man_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Middle Front-End Developer from Belarus. 
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me:
+👨‍💻 I am a Middle Front-End Developer from Belarus. 
 
-Everyday with [@sava-team](https://github.com/sava-team)
+📆 Everyday with [@sava-team](https://github.com/sava-team)
 
-Contacts:
+🎸 Musician. Arranger. Genres: Rock, R&B, Blues, Neosoul
+
+📞 Contacts:
 
 [![telegram](https://img.shields.io/badge/@alexsavr%20-black?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexsavr)
 [![email](https://img.shields.io/badge/as@sava.site%20-black?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:as@sava.site)
