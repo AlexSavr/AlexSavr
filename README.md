@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Middle Front-End Developer from Belarus. 
 
 
-Everyday with [![@sava-team](https://github.com/sava-team)
+Everyday with [@sava-team](https://github.com/sava-team)
 
 Contacts:
 
