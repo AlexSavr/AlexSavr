@@ -1,5 +1,4 @@
 ### Hi there 👋
----
 
 ### :man_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Middle Front-End Developer from Belarus. 
