@@ -4,9 +4,9 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Middle Front-End Developer from Belarus. 
 
 
-Everyday with @sava-team (https://github.com/sava-team)
+Everyday with [![@sava-team](https://github.com/sava-team)
 
-Links:
+Contacts:
 
 [![telegram](https://img.shields.io/badge/@alexsavr%20-black?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexsavr)
 [![email](https://img.shields.io/badge/as@sava.site%20-black?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:as@sava.site)
