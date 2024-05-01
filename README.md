@@ -11,7 +11,7 @@
 📞 Contacts:
 
 [![telegram](https://img.shields.io/badge/@alexsavr%20-black?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexsavr)
-[![email](https://img.shields.io/badge/as@sava.site%20-black?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:as@sava.site)
+[![email](https://img.shields.io/badge/as@sava.team%20-black?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:as@sava.team)
 
 ---
 
