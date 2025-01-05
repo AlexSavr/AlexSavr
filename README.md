@@ -11,7 +11,7 @@
 📞 Contacts:
 
 [![telegram](https://img.shields.io/badge/@alexsavr%20-black?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexsavr)
-[![email](https://img.shields.io/badge/as@sava.team%20-black?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:as@sava.team)
+[![email](https://img.shields.io/badge/saneksavrov@gmail.com%20-black?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:saneksavrov@gmail.com)
 
 ---
 
@@ -31,4 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" title="Magento 1/2" alt="Magento 1/2" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter (Dart)" alt="Flutter (Dart)" width="40" height="40"/>&nbsp;
 </div>
